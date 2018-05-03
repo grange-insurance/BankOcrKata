@@ -28,5 +28,5 @@ module OCR
         yield line
       end
     end
-
+  end
 end
