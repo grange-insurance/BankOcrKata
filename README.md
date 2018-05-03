@@ -5,6 +5,8 @@ Some specs are also incomplete in the later stages.
 Please have the original description open while you are working the kata.
 Direct any questions to westd@grangeinsurance.com.
 
+For a prescreen you should have 3 to 5 hours. The screener will tell how many you are given. Do the best you can, work using TDD and your framework of choice if possible. Be prepared to discuss what you have written and/or learned in a literate manner reflecting the experience you have listed on your resume. 
+
 ## User Story Specs
 
 Each user story (defined below) has an input file and an answers file.
