@@ -29,17 +29,4 @@ module OCR
       end
     end
 
-    private
-
-    def read_line
-      @line_number = next_line_number
-      result = @in_stream.gets
-      result && result.chomp
-    end
-
-    def next_line_number
-      @line_number + 1
-    end
-  end
-
 end
