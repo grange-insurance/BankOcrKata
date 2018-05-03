@@ -1,20 +1,9 @@
 # Bank OCR Kata
 
-This repo contains two Ruby solutions to the Bank OCR Kata defined at
-(http://www.codingdojo.org/cgi-bin/wiki.pl?KataBankOCR)
-
-The first solution is on the master branch. The master branch as the
-following tags:
-
-* start-here -- User story specs, but no code.
-* master-story1 -- The solution for user case 1
-* master-story2 -- The solution for user case 2
-* master-story3 -- The solution for user case 3
-* master-story4 -- The solution for user case 4
-
-The second implementation is on a branch named 'minimal'. It relies
-only on the story specs and is a single file with hardly any domain
-abstractions at all.
+Clone the repo, start your own branch, and start to complete the Kata by making the story specs pass.
+Some specs are also incomplete in the later stages.
+Please have the original description open while you are working the kata.
+Direct any questions to westd@grangeinsurance.com.
 
 ## User Story Specs
 
@@ -33,17 +22,6 @@ set the compliance level to 1 so only that story will be tested
 Note that the answers change for older stories as more requirements
 are added. Therefore early stories have different answer files for
 later compliance levels.
-
-## Working the Kata Yourself
-
-If you want to work this kata starting with this repo, then checkout
-the tag 'start-here' in this repo. That will give you all the user
-stories in a RSpec/Given format. Create a branch and work your own
-solution.
-
-Enjoy!
-
--- Jim Weirich (jimweirich on GitHub)
 
 # Original Description (from the Coding Dojo wiki)
 
